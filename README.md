@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React and Python**
 
-- 👨‍💻 Checkout our final project, WasteNot [github.com/AdamPriestman/wastenot](github.com/AdamPriestman/wastenot)
+- 👨‍💻 Checkout our group project, <a href="https://github.com/AdamPriestman/wastenot">WasteNot</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
